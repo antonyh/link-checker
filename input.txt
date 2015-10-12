@@ -1,0 +1,4 @@
+http://antonyh.co.uk/
+http://antonyh.co.uk/404
+http://dockerhost:5000/news.rss
+dockerhost:5000/news.rss
