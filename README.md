@@ -1,7 +1,7 @@
 # link-checker
 A simple link checking tool written in Rust 1.3
 
-[![Build Status](https://travis-ci.org/antonyh/link-checker.svg)](https://travis-ci.org/antonyh/link-checker
+[![Build Status](https://travis-ci.org/antonyh/link-checker.svg)](https://travis-ci.org/antonyh/link-checker)
 
 ## Building the link-checker
 
